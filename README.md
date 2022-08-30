@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💻<!--![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) -->Hola, mi nombre es Ismael García Bermejo 👋
-### Freelance full-stack - Seo Consultor
+### Developer full-stack - Seo Consultor
 
 <!--![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
