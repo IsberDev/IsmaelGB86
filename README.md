@@ -57,12 +57,12 @@ En este mismo año comienzo a compartir mis conocimientos y a crear contenido de
 </br>
 
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+[![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)]()
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&labelColor=101010)]()
 <!--[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&labelColor=101010)]()
 [![Flask](https://img.shields.io/badge/Flask-000001?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)]()
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
-[![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)]()
 [![next.js](https://img.shields.io/badge/next.js-0000020?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)]()
 [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=101010)]()
 [![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white&labelColor=101010)]()-->
