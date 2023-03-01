@@ -5,12 +5,12 @@
 ### Developer full-stack - Seo Consultor
 
 
-Soy Programador autodidacta de software desde hace más de 5 años.
+Soy Programador autodidacta de software, durante un tiempo me dedique al diseño web con wordpress y el siguiente paso logico era la programción.
 
 En 2022 dejé mi trabajo y me recicle con un Bootcamp Full Stack por Hack a Boss y la Armada Digital de Seo por Romual Fons, el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software con Seo Técnico.
 Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones Web, inicializando mi propio proyecto de marqueting y desarrollo web, fundando mi propia startup.
 
-En este mismo año comienzo a compartir mis conocimientos y a crear contenido de programación con mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
+En este mismo año comienzo a compartir mis conocimientos y a crear contenido de programación con mi experiencia como desarrollador en diferentes plataformas. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
 
 ## Tecnologías:
 ### Picando:
