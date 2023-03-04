@@ -63,6 +63,63 @@ En este mismo año comienzo a compartir mis conocimientos y a crear contenido de
 
 Y alguna más...
 
+
+## Algunos proyectos destacados:
+
+<table style="width:100%">
+<tr>
+<td>
+<a href="Proyecto1">
+<img src="./proximamente.png">
+</a>
+</td>
+<td>
+<a href="Proyecto1">
+<img src="./proximamente.png">
+</a>
+</td>
+<td>
+<a href="Proyecto1">
+<img src="./proximamente.png">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="Proyecto1">
+<img src="./proximamente.png">
+</a>
+</td>
+<td>
+<a href="Proyecto1">
+<img src="./proximamente.png">
+</a>
+</td>
+<td>
+<a href="Proyecto1">
+<img src="./proximamente.png">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="Proyecto1">
+<img src="./proximamente.png">
+</a>
+</td>
+<td>
+<a href="Proyecto1">
+<img src="./proximamente.png">
+</a>
+</td>
+<td>
+<a href="Proyecto1">
+<img src="./proximamente.png">
+</a>
+</td>
+</tr>
+</table>
+
 ## Encuéntrame en:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/IsmaelGB86)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)](https://gitlab.com/IsmaelGB86)
