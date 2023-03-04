@@ -5,9 +5,9 @@
 ### Developer full-stack - Seo Consultor
 
 
-Soy Programador autodidacta de software, durante un tiempo me dedique al diseño web con wordpress y el siguiente paso logico era la programción.
+Soy Programador autodidacta de software, durante un tiempo me dediqué al diseño web con WordPress y el siguiente paso lógico era la programación.
 
-En 2022 dejé mi trabajo y me recicle con un Bootcamp Full Stack por Hack a Boss y la Armada Digital de Seo por Romual Fons, el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software con Seo Técnico.
+En 2022 dejé mi trabajo y me reciclé con un Bootcamp Full Stack por Hack a Boss y la Armada Digital de Seo por Romual Fons, el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software con Seo Técnico.
 Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones Web, inicializando mi propio proyecto de marqueting y desarrollo web, fundando mi propia startup.
 
 En este mismo año comienzo a compartir mis conocimientos y a crear contenido de programación con mi experiencia como desarrollador en diferentes plataformas. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
@@ -62,6 +62,10 @@ En este mismo año comienzo a compartir mis conocimientos y a crear contenido de
 </br>
 
 Y alguna más...
+
+## Porfolio
+
+En este repositorio encontraréis dividido por ramas diferentes proyectos de aprendizaje con diversos lenguajes de programación con su correspondiente Deploy.
 
 
 ## Algunos proyectos destacados:
@@ -119,6 +123,9 @@ Y alguna más...
 </td>
 </tr>
 </table>
+
+## Certificaciones
+
 
 ## Encuéntrame en:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/IsmaelGB86)
