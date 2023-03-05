@@ -110,7 +110,7 @@ En este repositorio encontraréis dividido por ramas diferentes proyectos de apr
 
 ## Certificaciones
 > - [Armada Digital por Romual Fons](https://www.linkedin.com/in/ismael-garc%C3%ADa-bermejo/)
-> - [Bootcamp,Developer Full Stack por Hack A BOSS](https://www.linkedin.com/in/ismael-garc%C3%ADa-bermejo/)
+> - [Bootcamp, Developer Full Stack por Hack A BOSS](https://www.linkedin.com/in/ismael-garc%C3%ADa-bermejo/)
 
 
 
