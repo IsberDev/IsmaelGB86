@@ -79,46 +79,29 @@ En este repositorio encontraréis dividido por ramas diferentes proyectos de apr
 </a>
 </td>
 <td>
-<a href="Proyecto1">
+<a href="Proyecto2">
 <img src="./proximamente.png">
 </a>
 </td>
 <td>
-<a href="Proyecto1">
-<img src="./proximamente.png">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="Proyecto1">
-<img src="./proximamente.png">
-</a>
-</td>
-<td>
-<a href="Proyecto1">
-<img src="./proximamente.png">
-</a>
-</td>
-<td>
-<a href="Proyecto1">
+<a href="Proyecto3">
 <img src="./proximamente.png">
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="Proyecto1">
+<a href="Proyecto4">
 <img src="./proximamente.png">
 </a>
 </td>
 <td>
-<a href="Proyecto1">
+<a href="Proyecto5">
 <img src="./proximamente.png">
 </a>
 </td>
 <td>
-<a href="Proyecto1">
+<a href="Proyecto6">
 <img src="./proximamente.png">
 </a>
 </td>
@@ -126,6 +109,9 @@ En este repositorio encontraréis dividido por ramas diferentes proyectos de apr
 </table>
 
 ## Certificaciones
+> - [Armada Digital por Romual Fons](https://www.linkedin.com/in/ismael-garc%C3%ADa-bermejo/details/education/)
+> - [Bootcamp,Developer Full Stack por Hack A BOSS](https://www.linkedin.com/in/ismael-garc%C3%ADa-bermejo/details/education/)
+
 
 
 ## Encuéntrame en:
