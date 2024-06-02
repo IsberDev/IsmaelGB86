@@ -117,9 +117,9 @@ En este repositorio encontraréis dividido por ramas diferentes proyectos de apr
 
 
 ## Encuéntrame en:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/IsmaelGB86)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/isberdev)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)](https://gitlab.com/IsmaelGB86)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ismael-garcía-bermejo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]((https://www.linkedin.com/in/isberdev/))
 </br>
 
 
